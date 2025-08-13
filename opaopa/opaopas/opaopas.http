@@ -1,0 +1,6 @@
+@opaopas_HostAddress = http://localhost:5128
+
+GET {{opaopas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
